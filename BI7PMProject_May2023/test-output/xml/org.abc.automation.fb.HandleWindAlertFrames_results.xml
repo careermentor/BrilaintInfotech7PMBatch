@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.904">
+  <properties />
+  
+  
+            <testcase name="handlealerts" time="7.181" classname="org.abc.automation.fb.HandleWindAlertFrames" />
+                <testcase name="handlefrmaes" time="13.723" classname="org.abc.automation.fb.HandleWindAlertFrames" />
+      
+</testsuite>

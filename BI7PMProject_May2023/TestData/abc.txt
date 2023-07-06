@@ -1,0 +1,4 @@
+this is the test data
+This is the Java code
+computer read data in ascii value
+browser_name=chrome
