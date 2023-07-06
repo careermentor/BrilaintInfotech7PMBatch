@@ -11,6 +11,7 @@ public class LoginPage
 	public LoginPage(WebDriver driver)
 	{
 		this.driver=driver;
+		
 	}
 
 	public void enter_username(String uname) throws Exception
